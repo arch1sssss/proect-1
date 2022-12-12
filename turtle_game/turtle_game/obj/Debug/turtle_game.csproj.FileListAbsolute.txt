@@ -1,0 +1,9 @@
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\bin\Debug\turtle_game.exe.config
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\bin\Debug\turtle_game.exe
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\bin\Debug\turtle_game.pdb
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\bin\Debug\SmallBasicLibrary.dll
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\obj\Debug\turtle_game.csproj.AssemblyReference.cache
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\obj\Debug\turtle_game.csproj.CoreCompileInputs.cache
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\obj\Debug\turtle_game.csproj.CopyComplete
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\obj\Debug\turtle_game.exe
+C:\Users\28-1.CLP.000\Desktop\turtle_game\turtle_game\turtle_game\obj\Debug\turtle_game.pdb
